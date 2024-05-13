@@ -1,0 +1,1 @@
+export { houseRentalRoutes } from "./routes/index.routes";
